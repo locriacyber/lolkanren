@@ -1,5 +1,5 @@
 var _ = this._ || require("underscore");
-var exports = this.exports || {};
+var exports = module.exports;
 
 
 // Nondeterministic functions

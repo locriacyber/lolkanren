@@ -2,9 +2,9 @@
   "name": "lolkanren",
   "version": "0.1.0",
   "dependencies": {
-    "underscore": "1.4.3",
+    "underscore": "^1.13.6",
     "chai": "1.4.2",
-    "mocha": ""
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha test.js"
